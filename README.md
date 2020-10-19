@@ -2,6 +2,11 @@
 
 ![alt text](./results/mpc.gif)
 
+magnet:?xt=urn:btih:045D85D6FE5A60D7D26150972EAC83BEB971B80A&dn=mide-833
+
+magnet:?xt=urn:btih:F4D04BE27A0CD72FC7F7414A4736968A88C69912&dn=SSNI-900.mp4
+
+magnet:?xt=urn:btih:530BF0475974D5CAF34058D9637E59CFE4942DCB&dn=ssni-877ch
 This project was done as a part of Udacity's Self-Driving Car Engineer Nanodegree Program. It implements a Model Predictive Controller (MPC) to control a car in order to follow a reference trajectory as closely as possible. The state of the car and the reference trajectory waypoints are provided by [Udacity's simulator](https://github.com/udacity/self-driving-car-sim/releases). At every time step, the MPC provides the actuator inputs (steering angle and throttle) back to the simulator that minimizes a cost function. The communication is through [uWebSockets](https://github.com/uNetworking/uWebSockets).
 
 ### Dependencies
